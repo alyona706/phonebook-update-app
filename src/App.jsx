@@ -34,7 +34,7 @@ function App() {
 
   useEffect(() => {
     const requestData = async () => {
-      const response = await fetch('/data.json');
+      const response = await fetch('data.json');
       const result = await response.json();
 
       setContacts(result);
