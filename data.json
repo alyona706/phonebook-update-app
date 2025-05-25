@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ivan",
+    "lastName": "Shevchenko",
+    "phone": "+380931234567"
+  },
+  {
+    "id": 2,
+    "firstName": "Olena",
+    "lastName": "Kovalenko",
+    "phone": "+380671112233"
+  },
+  {
+    "id": 3,
+    "firstName": "Andrii",
+    "lastName": "Bondarenko",
+    "phone": "+380501234321"
+  },
+  {
+    "id": 4,
+    "firstName": "Svitlana",
+    "lastName": "Tkachenko",
+    "phone": "+380631234567"
+  }
+]
